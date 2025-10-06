@@ -24,6 +24,9 @@
 
 ### Задание 1
 
+<img src = "img/image1.png">
+
+<img src = "img/image2.png">
 
 1. Различные TCP-порты, где есть `ftp`, `ssh`, `mysql` и тд, достаточно большой список.
 2. Первым будет `vsftpd` версии 2.3.4 [Backdoor Command Execution](https://www.exploit-db.com/exploits/49757); две DoS уязвимости [`1`](https://www.exploit-db.com/exploits/30020) [`2`](https://www.exploit-db.com/exploits/29724) для `mysql` версий 5.0.x; также может быть уязвим [`ProFTPd`](https://www.exploit-db.com/exploits/15449) 
