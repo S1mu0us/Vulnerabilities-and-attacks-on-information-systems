@@ -1,4 +1,4 @@
-# [Домашнее задание](https://github.com/netology-code/sdb-homeworks/blob/main/13-01.md) к занятию "`Уязвимости и атаки на информационные системы`"
+# [Задание](https://github.com/netology-code/sdb-homeworks/blob/main/13-01.md) к занятию "`Уязвимости и атаки на информационные системы`"
 
 
 ### Инструкция по выполнению 
